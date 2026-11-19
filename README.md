@@ -1,4 +1,4 @@
-# mymemory-dev
+# MyMemory
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,143 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-mymemory-dev is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://mymemory.dev/
+Save articles, tweets, Reddit and Instagram posts, YouTube videos, notes and PDFs in one place, then find anything by asking in your own language. Free to start. MyMemory is an AI second brain and user-owned memory vault offering a REST API and MCP server for developers.
+
+**Areas:** AI Assistant · Search · Integrations · API
+
+## MyMemory on APIs.io
+
+Everything profiled for MyMemory is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/mymemory-dev/](https://apis.io/providers/mymemory-dev/)** — or go straight to one of the APIs or properties below.
+
+### APIs (31)
+
+- [MyMemory Add API](https://apis.io/apis/mymemory-dev/mymemory-dev-add-api/) — The Add API from MyMemory — 2 operation(s) for add.
+- [MyMemory Admin API](https://apis.io/apis/mymemory-dev/mymemory-dev-admin-api/) — The Admin API from MyMemory — 24 operation(s) for admin.
+- [MyMemory Agent API](https://apis.io/apis/mymemory-dev/mymemory-dev-agent-api/) — The Agent API from MyMemory — 7 operation(s) for agent.
+- [MyMemory Batch Add API](https://apis.io/apis/mymemory-dev/mymemory-dev-batch-add-api/) — The Batch Add API from MyMemory — 1 operation(s) for batch add.
+- [MyMemory Calendar API](https://apis.io/apis/mymemory-dev/mymemory-dev-calendar-api/) — The Calendar API from MyMemory — 1 operation(s) for calendar.
+- [MyMemory Chat API](https://apis.io/apis/mymemory-dev/mymemory-dev-chat-api/) — The Chat API from MyMemory — 3 operation(s) for chat.
+- [MyMemory Exit Survey API](https://apis.io/apis/mymemory-dev/mymemory-dev-exit-survey-api/) — The Exit Survey API from MyMemory — 1 operation(s) for exit survey.
+- [MyMemory Health API](https://apis.io/apis/mymemory-dev/mymemory-dev-health-api/) — The Health API from MyMemory — 2 operation(s) for health.
+- [MyMemory Imports API](https://apis.io/apis/mymemory-dev/mymemory-dev-imports-api/) — The Imports API from MyMemory — 3 operation(s) for imports.
+- [MyMemory Integrations API](https://apis.io/apis/mymemory-dev/mymemory-dev-integrations-api/) — The Integrations API from MyMemory — 33 operation(s) for integrations.
+- [MyMemory MCP API](https://apis.io/apis/mymemory-dev/mymemory-dev-mcp-api/) — The Mcp API from MyMemory — 1 operation(s) for mcp.
+- [MyMemory Memories API](https://apis.io/apis/mymemory-dev/mymemory-dev-memories-api/) — The Memories API from MyMemory — 13 operation(s) for memories.
+- [MyMemory Metadata API](https://apis.io/apis/mymemory-dev/mymemory-dev-metadata-api/) — The Metadata API from MyMemory — 1 operation(s) for metadata.
+- [MyMemory Push API](https://apis.io/apis/mymemory-dev/mymemory-dev-push-api/) — The Push API from MyMemory — 4 operation(s) for push.
+- [MyMemory Recommended Questions API](https://apis.io/apis/mymemory-dev/mymemory-dev-recommended-questions-api/) — The Recommended Questions API from MyMemory — 1 operation(s) for recommended questions.
+- [MyMemory Reminder Links API](https://apis.io/apis/mymemory-dev/mymemory-dev-reminder-links-api/) — The Reminder Links API from MyMemory — 1 operation(s) for reminder links.
+- [MyMemory Reminders API](https://apis.io/apis/mymemory-dev/mymemory-dev-reminders-api/) — The Reminders API from MyMemory — 6 operation(s) for reminders.
+- [MyMemory Retrieval API](https://apis.io/apis/mymemory-dev/mymemory-dev-retrieval-api/) — The Retrieval API from MyMemory — 2 operation(s) for retrieval.
+- [MyMemory Search API](https://apis.io/apis/mymemory-dev/mymemory-dev-search-api/) — The Search API from MyMemory — 1 operation(s) for search.
+- [MyMemory Session API](https://apis.io/apis/mymemory-dev/mymemory-dev-session-api/) — The Session API from MyMemory — 1 operation(s) for session.
+- [MyMemory Spaces API](https://apis.io/apis/mymemory-dev/mymemory-dev-spaces-api/) — The Spaces API from MyMemory — 13 operation(s) for spaces.
+- [MyMemory Suggested Learnings API](https://apis.io/apis/mymemory-dev/mymemory-dev-suggested-learnings-api/) — The Suggested Learnings API from MyMemory — 1 operation(s) for suggested learnings.
+- [MyMemory Tags API](https://apis.io/apis/mymemory-dev/mymemory-dev-tags-api/) — The Tags API from MyMemory — 1 operation(s) for tags.
+- [MyMemory Telemetry API](https://apis.io/apis/mymemory-dev/mymemory-dev-telemetry-api/) — The Telemetry API from MyMemory — 1 operation(s) for telemetry.
+- [MyMemory Trash API](https://apis.io/apis/mymemory-dev/mymemory-dev-trash-api/) — The Trash API from MyMemory — 3 operation(s) for trash.
+- [MyMemory User API](https://apis.io/apis/mymemory-dev/mymemory-dev-user-api/) — The User API from MyMemory — 36 operation(s) for user.
+- [MyMemory Verify Turnstile API](https://apis.io/apis/mymemory-dev/mymemory-dev-verify-turnstile-api/) — The Verify Turnstile API from MyMemory — 1 operation(s) for verify turnstile.
+- [MyMemory Waitlist API](https://apis.io/apis/mymemory-dev/mymemory-dev-waitlist-api/) — The Waitlist API from MyMemory — 1 operation(s) for waitlist.
+- [MyMemory Webhooks API](https://apis.io/apis/mymemory-dev/mymemory-dev-webhooks-api/) — The Webhooks API from MyMemory — 2 operation(s) for webhooks.
+- [MyMemory .well Known API](https://apis.io/apis/mymemory-dev/mymemory-dev-well-known-api/) — The .well Known API from MyMemory — 3 operation(s) for .well known.
+- [MyMemory Open API](https://apis.io/apis/mymemory-dev/mymemory-dev-open-api-api/) — The Open API API from MyMemory — 1 operation(s) for open api.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [MyMemory Agentic Access](https://apis.io/agentic-access/mymemory-dev/mymemory-dev-agentic-access/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [MyMemory API Rules](https://apis.io/rules/mymemory-dev/mymemory-dev-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [MyMemory Authentication](https://apis.io/security/mymemory-dev/mymemory-dev-authentication/)
+- [MyMemory Domain Security](https://apis.io/security/mymemory-dev/mymemory-dev-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [MyMemory Plans Pricing](https://apis.io/plans/mymemory-dev/mymemory-dev-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://mymemory.dev/)
+- [Documentation](https://docs.mymemory.dev/api-reference/introduction)
+- [Getting started](https://docs.mymemory.dev/quickstart)
+- [Pricing](https://mymemory.dev/pricing)
+- [Sign up](https://mymemory.dev/signin?screen=signup)
+- [Changelog](https://docs.mymemory.dev/changelog/2026)
+- [Blog](https://mymemory.dev/blog)
+- [Terms of service](https://mymemory.dev/tos)
+- [Privacy policy](https://mymemory.dev/privacy)
+
+## API Evangelist rating
+
+**Kin Score 45.9** — developing · rubric 0.28.0 · scored 2026-11-19
+
+| Facet | Score |
+|---|---|
+| Discoverability | 67.9 |
+| Contract quality | 33.7 |
+| Contract governance | 65.5 |
+| Operational transparency | 14.3 |
+| Developer ergonomics | 45.2 |
+| Access clarity | 59.1 |
+
+**Agent readiness 30.9** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | — |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 18.6** — AI & Biometrics
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/mymemory-dev/](https://apis.io/providers/mymemory-dev/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for MyMemory: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/mymemory-dev/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
